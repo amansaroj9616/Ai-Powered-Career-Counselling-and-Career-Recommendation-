@@ -3,6 +3,7 @@
 ## 📌 Overview
 
 Many students struggle with career decisions due to a lack of personalized guidance on suitable job roles, required skills, and industry trends. Additionally, optimizing resumes to align with employer expectations is a challenge. This project aims to develop an **AI-powered career guidance and resume optimization system** to help students make informed career choices and improve their job application success rates.
+![image alt](https://github.com/amansaroj9616/Ai-Powered-Career-Counselling-and-Career-Recommendation-/blob/46487416df88d9454cb4d5611fdbe6c49c082791/screenshots/homepage.png)
 
 ## 🚀 Features
 
@@ -12,12 +13,19 @@ Many students struggle with career decisions due to a lack of personalized guida
 - 🎓 Recommend relevant courses, certifications, and projects to enhance employability.
 - 🌍 Ensure career path alignment with current industry trends.
 
-### 2️⃣ AI Resume Screener and Optimizer
+### 2️⃣ AI Career Recommendation and Resume Screener and Optimizer
 - 📄 Evaluate a student's resume based on job descriptions.
 - ✍️ Suggest improvements in formatting, keywords, and content.
 - 🎯 Generate tailored resume versions for different job applications.
 
 ---
+![image alt](https://github.com/amansaroj9616/Ai-Powered-Career-Counselling-and-Career-Recommendation-/blob/46487416df88d9454cb4d5611fdbe6c49c082791/screenshots/populararticals.png)
+![image alt](https://github.com/amansaroj9616/Ai-Powered-Career-Counselling-and-Career-Recommendation-/blob/46487416df88d9454cb4d5611fdbe6c49c082791/screenshots/moreArticals.png)
+![image alt](https://github.com/amansaroj9616/Ai-Powered-Career-Counselling-and-Career-Recommendation-/blob/46487416df88d9454cb4d5611fdbe6c49c082791/screenshots/login.png)
+![image alt](https://github.com/amansaroj9616/Ai-Powered-Career-Counselling-and-Career-Recommendation-/blob/46487416df88d9454cb4d5611fdbe6c49c082791/screenshots/signup.png)
+![image alt](https://github.com/amansaroj9616/Ai-Powered-Career-Counselling-and-Career-Recommendation-/blob/46487416df88d9454cb4d5611fdbe6c49c082791/screenshots/Screenshot%202025-03-21%20032247.png)
+![image alt](https://github.com/amansaroj9616/Ai-Powered-Career-Counselling-and-Career-Recommendation-/blob/46487416df88d9454cb4d5611fdbe6c49c082791/screenshots/Screenshot%202025-03-21%20032225.png)
+
 
 ## 🛠️ Tech Stack
 - **Frontend**: React.js / Next.js
