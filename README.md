@@ -7,7 +7,7 @@ Many students struggle with career decisions due to a lack of personalized guida
 
 ## 🚀 Features
 
-### 1️⃣ Personalized Career Recommendations
+### 1️⃣ Personalized Career Counselling
 - 📊 Analyze academic performance, interests, skills, and market trends.
 - 🛤️ Suggest suitable career paths (e.g., Software Engineer, Data Scientist, Researcher, etc.).
 - 🎓 Recommend relevant courses, certifications, and projects to enhance employability.
